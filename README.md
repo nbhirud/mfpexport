@@ -5,5 +5,5 @@ Using the following for data export:
 
 https://python-myfitnesspal.readthedocs.io/en/latest/how_to/diary.html 
 
-
-https://github.com/coddingtonbear/python-myfitnesspal/tree/master
+Notes:
+Also see later - https://github.com/coddingtonbear/python-myfitnesspal/
